@@ -3,7 +3,7 @@ from discord.ext import commands
 import random
 import os
 
-description = "Эм это я тот самый сын маминой подруги который любит биологию,я был спрограмирован великим человеком.Я разкажу про глобальное потепления"
+description = "Эм это я тот самый сын маминой подруги который любит биологию,я был созданый великим человеком.Я разкажу про глобальное потепления"
 intents = discord.Intents.default()
 intents.members = True
 intents.message_content = True
